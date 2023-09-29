@@ -1,0 +1,22 @@
+﻿@model List<DoAN.Models.Sanpham>
+
+@{
+    ViewBag.Title = "GioHang";
+    Layout = "~/Views/Shared/_LayoutPage1.cshtml";
+}
+
+<h2>GioHang</h2>
+<div class="row">
+    @foreach (var item in Model)
+    {
+        <div class="col-4">
+            <div class="card" style="width: 205px; height: 390px; border-radius: 15px; box-shadow: 0 0 5px 0.8px #dedede; margin: 5px 5px 10px 0px">
+                <img src="~/img/@item.ImgUrl" class="card-img-top" alt="...">
+                <div class="card-body">
+                    <h5 class="card-title">@item.Name</h5>
+                    <p class="card-text"><span style="color: #d70018"><b>@string.Format("{0:#,##0}", @item.Gia) ₫</b></span></p>
+                </div>
+            </div>
+        </div>
+    }
+</div>

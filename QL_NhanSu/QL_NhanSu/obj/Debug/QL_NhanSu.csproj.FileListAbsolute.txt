@@ -1,0 +1,80 @@
+D:\2022-2023\Công Nghệ Phần Mềm\QL_NhanSu\QL_NhanSu\bin\Debug\QL_NhanSu.exe.config
+D:\2022-2023\Công Nghệ Phần Mềm\QL_NhanSu\QL_NhanSu\bin\Debug\QL_NhanSu.exe
+D:\2022-2023\Công Nghệ Phần Mềm\QL_NhanSu\QL_NhanSu\bin\Debug\QL_NhanSu.pdb
+D:\2022-2023\Công Nghệ Phần Mềm\QL_NhanSu\QL_NhanSu\obj\Debug\QL_NhanSu.csprojResolveAssemblyReference.cache
+D:\2022-2023\Công Nghệ Phần Mềm\QL_NhanSu\QL_NhanSu\obj\Debug\QL_NhanSu.Properties.Resources.resources
+D:\2022-2023\Công Nghệ Phần Mềm\QL_NhanSu\QL_NhanSu\obj\Debug\QL_NhanSu.csproj.GenerateResource.Cache
+D:\2022-2023\Công Nghệ Phần Mềm\QL_NhanSu\QL_NhanSu\obj\Debug\QL_NhanSu.exe
+D:\2022-2023\Công Nghệ Phần Mềm\QL_NhanSu\QL_NhanSu\obj\Debug\QL_NhanSu.pdb
+D:\2022-2023\Công Nghệ Phần Mềm\QL_NhanSu\QL_NhanSu\obj\Debug\QL_NhanSu.Form_dangnhap.resources
+D:\2022-2023\Công Nghệ Phần Mềm\QL_NhanSu\QL_NhanSu\obj\Debug\QL_NhanSu.Form3.resources
+D:\2022-2023\Công Nghệ Phần Mềm\QL_NhanSu\QL_NhanSu\obj\Debug\QL_NhanSu.Form_capnhat.resources
+D:\2022-2023\Công Nghệ Phần Mềm\QL_NhanSu\QL_NhanSu\obj\Debug\QL_NhanSu.Form4.resources
+D:\2022-2023\Công Nghệ Phần Mềm\QL_NhanSu\QL_NhanSu\obj\Debug\QL_NhanSu.Form5.resources
+D:\2022-2023\Công Nghệ Phần Mềm\QL_NhanSu\QL_NhanSu\obj\Debug\QL_NhanSu.Form6.resources
+D:\2022-2023\Công Nghệ Phần Mềm\QL_NhanSu\QL_NhanSu\obj\Debug\QL_NhanSu.Form7.resources
+D:\2022-2023\Công Nghệ Phần Mềm\QL_NhanSu\QL_NhanSu\obj\Debug\QL_NhanSu.Form8.resources
+D:\2022-2023\Công Nghệ Phần Mềm\QL_NhanSu\QL_NhanSu\obj\Debug\QL_NhanSu.Form9.resources
+D:\2022-2023\Công Nghệ Phần Mềm\QL_NhanSu\QL_NhanSu\obj\Debug\QL_NhanSu.Form10.resources
+D:\2022-2023\Công Nghệ Phần Mềm\QL_NhanSu\QL_NhanSu\obj\Debug\QL_NhanSu.Form11.resources
+D:\2022-2023\Công Nghệ Phần Mềm\QL_NhanSu\QL_NhanSu\obj\Debug\QL_NhanSu.Form12.resources
+D:\2022-2023\Công Nghệ Phần Mềm\QL_NhanSu\QL_NhanSu\obj\Debug\QL_NhanSu.Form13.resources
+D:\2022-2023\Công Nghệ Phần Mềm\QL_NhanSu\QL_NhanSu\obj\Debug\QL_NhanSu.Form14.resources
+D:\2022-2023\Công Nghệ Phần Mềm\QL_NhanSu\QL_NhanSu\obj\Debug\QL_NhanSu.Form15.resources
+E:\z_Trash\QL_NhanSu\QL_NhanSu\bin\Debug\QL_NhanSu.exe.config
+E:\z_Trash\QL_NhanSu\QL_NhanSu\bin\Debug\QL_NhanSu.exe
+E:\z_Trash\QL_NhanSu\QL_NhanSu\bin\Debug\QL_NhanSu.pdb
+E:\z_Trash\QL_NhanSu\QL_NhanSu\obj\Debug\QL_NhanSu.csproj.AssemblyReference.cache
+E:\z_Trash\QL_NhanSu\QL_NhanSu\obj\Debug\QL_NhanSu.csproj.SuggestedBindingRedirects.cache
+E:\z_Trash\QL_NhanSu\QL_NhanSu\obj\Debug\QL_NhanSu.Form_dangnhap.resources
+E:\z_Trash\QL_NhanSu\QL_NhanSu\obj\Debug\QL_NhanSu.Form10.resources
+E:\z_Trash\QL_NhanSu\QL_NhanSu\obj\Debug\QL_NhanSu.Form11.resources
+E:\z_Trash\QL_NhanSu\QL_NhanSu\obj\Debug\QL_NhanSu.Form12.resources
+E:\z_Trash\QL_NhanSu\QL_NhanSu\obj\Debug\QL_NhanSu.Form13.resources
+E:\z_Trash\QL_NhanSu\QL_NhanSu\obj\Debug\QL_NhanSu.Form14.resources
+E:\z_Trash\QL_NhanSu\QL_NhanSu\obj\Debug\QL_NhanSu.Form15.resources
+E:\z_Trash\QL_NhanSu\QL_NhanSu\obj\Debug\QL_NhanSu.Form_capnhat.resources
+E:\z_Trash\QL_NhanSu\QL_NhanSu\obj\Debug\QL_NhanSu.Form3.resources
+E:\z_Trash\QL_NhanSu\QL_NhanSu\obj\Debug\QL_NhanSu.Form4.resources
+E:\z_Trash\QL_NhanSu\QL_NhanSu\obj\Debug\QL_NhanSu.Form5.resources
+E:\z_Trash\QL_NhanSu\QL_NhanSu\obj\Debug\QL_NhanSu.Form6.resources
+E:\z_Trash\QL_NhanSu\QL_NhanSu\obj\Debug\QL_NhanSu.Form7.resources
+E:\z_Trash\QL_NhanSu\QL_NhanSu\obj\Debug\QL_NhanSu.Form8.resources
+E:\z_Trash\QL_NhanSu\QL_NhanSu\obj\Debug\QL_NhanSu.Form9.resources
+E:\z_Trash\QL_NhanSu\QL_NhanSu\obj\Debug\QL_NhanSu.Properties.Resources.resources
+E:\z_Trash\QL_NhanSu\QL_NhanSu\obj\Debug\QL_NhanSu.csproj.GenerateResource.cache
+E:\z_Trash\QL_NhanSu\QL_NhanSu\obj\Debug\QL_NhanSu.csproj.CoreCompileInputs.cache
+E:\z_Trash\QL_NhanSu\QL_NhanSu\obj\Debug\QL_NhanSu.exe
+E:\z_Trash\QL_NhanSu\QL_NhanSu\obj\Debug\QL_NhanSu.pdb
+E:\z_Trash\QL_NhanSu\QL_NhanSu\obj\Debug\QL_NhanSu.Form16.resources
+E:\z_Trash\QL_NhanSu\QL_NhanSu\obj\Debug\QL_NhanSu.Form17.resources
+E:\z_Trash\QL_NhanSu\QL_NhanSu\obj\Debug\QL_NhanSu.Tra_cứu_thông_tin_nhân_sự.resources
+C:\Users\NITRO\OneDrive\Máy tính\QL_NhanSu\QL_NhanSu\bin\Debug\QL_NhanSu.exe.config
+C:\Users\NITRO\OneDrive\Máy tính\QL_NhanSu\QL_NhanSu\obj\Debug\QL_NhanSu.exe
+C:\Users\NITRO\OneDrive\Máy tính\QL_NhanSu\QL_NhanSu\obj\Debug\QL_NhanSu.pdb
+E:\ProjectGithub\QL_NhanSu\QL_NhanSu\bin\Debug\QL_NhanSu.exe.config
+E:\ProjectGithub\QL_NhanSu\QL_NhanSu\obj\Debug\QL_NhanSu.exe
+E:\ProjectGithub\QL_NhanSu\QL_NhanSu\obj\Debug\QL_NhanSu.pdb
+E:\ProjectGithub\QL_NhanSu\QL_NhanSu\bin\Debug\QL_NhanSu.exe
+E:\ProjectGithub\QL_NhanSu\QL_NhanSu\bin\Debug\QL_NhanSu.pdb
+E:\ProjectGithub\QL_NhanSu\QL_NhanSu\obj\Debug\QL_NhanSu.csprojResolveAssemblyReference.cache
+E:\ProjectGithub\QL_NhanSu\QL_NhanSu\obj\Debug\QL_NhanSu.Form_dangnhap.resources
+E:\ProjectGithub\QL_NhanSu\QL_NhanSu\obj\Debug\QL_NhanSu.Form10.resources
+E:\ProjectGithub\QL_NhanSu\QL_NhanSu\obj\Debug\QL_NhanSu.Form11.resources
+E:\ProjectGithub\QL_NhanSu\QL_NhanSu\obj\Debug\QL_NhanSu.Form12.resources
+E:\ProjectGithub\QL_NhanSu\QL_NhanSu\obj\Debug\QL_NhanSu.Form13.resources
+E:\ProjectGithub\QL_NhanSu\QL_NhanSu\obj\Debug\QL_NhanSu.Form14.resources
+E:\ProjectGithub\QL_NhanSu\QL_NhanSu\obj\Debug\QL_NhanSu.Form15.resources
+E:\ProjectGithub\QL_NhanSu\QL_NhanSu\obj\Debug\QL_NhanSu.Form16.resources
+E:\ProjectGithub\QL_NhanSu\QL_NhanSu\obj\Debug\QL_NhanSu.Form17.resources
+E:\ProjectGithub\QL_NhanSu\QL_NhanSu\obj\Debug\QL_NhanSu.Form_capnhat.resources
+E:\ProjectGithub\QL_NhanSu\QL_NhanSu\obj\Debug\QL_NhanSu.Form3.resources
+E:\ProjectGithub\QL_NhanSu\QL_NhanSu\obj\Debug\QL_NhanSu.Form4.resources
+E:\ProjectGithub\QL_NhanSu\QL_NhanSu\obj\Debug\QL_NhanSu.Form5.resources
+E:\ProjectGithub\QL_NhanSu\QL_NhanSu\obj\Debug\QL_NhanSu.Form6.resources
+E:\ProjectGithub\QL_NhanSu\QL_NhanSu\obj\Debug\QL_NhanSu.Form7.resources
+E:\ProjectGithub\QL_NhanSu\QL_NhanSu\obj\Debug\QL_NhanSu.Form8.resources
+E:\ProjectGithub\QL_NhanSu\QL_NhanSu\obj\Debug\QL_NhanSu.Form9.resources
+E:\ProjectGithub\QL_NhanSu\QL_NhanSu\obj\Debug\QL_NhanSu.Properties.Resources.resources
+E:\ProjectGithub\QL_NhanSu\QL_NhanSu\obj\Debug\QL_NhanSu.Tra_cứu_thông_tin_nhân_sự.resources
+E:\ProjectGithub\QL_NhanSu\QL_NhanSu\obj\Debug\QL_NhanSu.csproj.GenerateResource.Cache

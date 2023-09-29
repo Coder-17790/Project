@@ -1,0 +1,5 @@
+<resources>
+    <string name="title_activity_anh">AnhActivity</string>
+    <string name="nav_open">Open</string>
+    <string name="nav_close">Close</string>
+</resources>

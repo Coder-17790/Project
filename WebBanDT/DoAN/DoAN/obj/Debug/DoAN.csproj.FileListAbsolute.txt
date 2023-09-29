@@ -1,0 +1,145 @@
+D:\Yen\LapTrinhWeb\DoAN\DoAN\bin\DoAN.dll.config
+D:\Yen\LapTrinhWeb\DoAN\DoAN\bin\DoAN.dll
+D:\Yen\LapTrinhWeb\DoAN\DoAN\bin\DoAN.pdb
+D:\Yen\LapTrinhWeb\DoAN\DoAN\bin\System.Web.Helpers.dll
+D:\Yen\LapTrinhWeb\DoAN\DoAN\bin\System.Web.Mvc.dll
+D:\Yen\LapTrinhWeb\DoAN\DoAN\bin\System.Web.Razor.dll
+D:\Yen\LapTrinhWeb\DoAN\DoAN\bin\System.Web.Webpages.Deployment.dll
+D:\Yen\LapTrinhWeb\DoAN\DoAN\bin\System.Web.Webpages.dll
+D:\Yen\LapTrinhWeb\DoAN\DoAN\bin\System.Web.Webpages.Razor.dll
+D:\Yen\LapTrinhWeb\DoAN\DoAN\bin\System.Web.Razor.xml
+D:\Yen\LapTrinhWeb\DoAN\DoAN\bin\System.Web.Webpages.xml
+D:\Yen\LapTrinhWeb\DoAN\DoAN\bin\System.Web.Webpages.Deployment.xml
+D:\Yen\LapTrinhWeb\DoAN\DoAN\bin\System.Web.Webpages.Razor.xml
+D:\Yen\LapTrinhWeb\DoAN\DoAN\bin\System.Web.Helpers.xml
+D:\Yen\LapTrinhWeb\DoAN\DoAN\bin\System.Web.Mvc.xml
+D:\Yen\LapTrinhWeb\DoAN\DoAN\obj\Debug\DoAN.csprojResolveAssemblyReference.cache
+D:\Yen\LapTrinhWeb\DoAN\DoAN\obj\Debug\DoAN.dll
+D:\Yen\LapTrinhWeb\DoAN\DoAN\obj\Debug\DoAN.pdb
+D:\Yen\LapTrinhWeb\DoAN\DoAN\bin\EntityFramework.dll
+D:\Yen\LapTrinhWeb\DoAN\DoAN\bin\EntityFramework.SqlServer.dll
+D:\Yen\LapTrinhWeb\DoAN\DoAN\bin\EntityFramework.xml
+D:\Yen\LapTrinhWeb\DoAN\DoAN\bin\EntityFramework.SqlServer.xml
+D:\Yen\LapTrinhWeb\DoAN\DoAN\obj\Debug\DoAN.Migrations.InitialCreate.resources
+D:\Yen\LapTrinhWeb\DoAN\DoAN\obj\Debug\DoAN.csproj.GenerateResource.Cache
+D:\Yen\LapTrinhWeb\DoAN\DoAN\obj\Debug\DoAN.Migrations.imgurl.resources
+D:\Yen\LapTrinhWeb\DoAN\DoAN\obj\Debug\DoAN.Migrations.Validation.resources
+D:\Yen\LapTrinhWeb\DoAN\DoAN\obj\Debug\DoAN.Migrations.addNewtable.resources
+D:\Yen\LapTrinhWeb\DoAN\DoAN\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Yen\LapTrinhWeb\DoAN\DoAN\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Yen\LapTrinhWeb\DoAN\DoAN\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Yen\LapTrinhWeb\DoAN\DoAN\bin\Microsoft.Owin.dll
+D:\Yen\LapTrinhWeb\DoAN\DoAN\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Yen\LapTrinhWeb\DoAN\DoAN\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Yen\LapTrinhWeb\DoAN\DoAN\bin\Microsoft.Owin.Security.dll
+D:\Yen\LapTrinhWeb\DoAN\DoAN\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Yen\LapTrinhWeb\DoAN\DoAN\bin\Newtonsoft.Json.dll
+D:\Yen\LapTrinhWeb\DoAN\DoAN\bin\Owin.dll
+D:\Yen\LapTrinhWeb\DoAN\DoAN\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Yen\LapTrinhWeb\DoAN\DoAN\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Yen\LapTrinhWeb\DoAN\DoAN\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Yen\LapTrinhWeb\DoAN\DoAN\bin\Microsoft.Owin.xml
+D:\Yen\LapTrinhWeb\DoAN\DoAN\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Yen\LapTrinhWeb\DoAN\DoAN\bin\Microsoft.Owin.Security.xml
+D:\Yen\LapTrinhWeb\DoAN\DoAN\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Yen\LapTrinhWeb\DoAN\DoAN\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Yen\LapTrinhWeb\DoAN\DoAN\bin\Newtonsoft.Json.xml
+D:\Yen\LapTrinhWeb\DoAN\DoAN\obj\Debug\DoAN.IdentityMigration.init.resources
+D:\Yen\LapTrinhWeb\DoAN\DoAN\obj\Debug\DoAN.IdentityMigration.up.resources
+D:\Yen\LapTrinhWeb\DoAN\DoAN\obj\Debug\DoAN.Migrations.up.resources
+C:\Users\NITRO\Desktop\file\Lập trình web\Backup\DoAN\DoAN\DoAN\bin\DoAN.dll.config
+C:\Users\NITRO\Desktop\file\Lập trình web\Backup\DoAN\DoAN\DoAN\bin\DoAN.dll
+C:\Users\NITRO\Desktop\file\Lập trình web\Backup\DoAN\DoAN\DoAN\bin\DoAN.pdb
+C:\Users\NITRO\Desktop\file\Lập trình web\Backup\DoAN\DoAN\DoAN\bin\EntityFramework.dll
+C:\Users\NITRO\Desktop\file\Lập trình web\Backup\DoAN\DoAN\DoAN\bin\EntityFramework.SqlServer.dll
+C:\Users\NITRO\Desktop\file\Lập trình web\Backup\DoAN\DoAN\DoAN\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\NITRO\Desktop\file\Lập trình web\Backup\DoAN\DoAN\DoAN\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\NITRO\Desktop\file\Lập trình web\Backup\DoAN\DoAN\DoAN\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\NITRO\Desktop\file\Lập trình web\Backup\DoAN\DoAN\DoAN\bin\Microsoft.Owin.dll
+C:\Users\NITRO\Desktop\file\Lập trình web\Backup\DoAN\DoAN\DoAN\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\NITRO\Desktop\file\Lập trình web\Backup\DoAN\DoAN\DoAN\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\NITRO\Desktop\file\Lập trình web\Backup\DoAN\DoAN\DoAN\bin\Microsoft.Owin.Security.dll
+C:\Users\NITRO\Desktop\file\Lập trình web\Backup\DoAN\DoAN\DoAN\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\NITRO\Desktop\file\Lập trình web\Backup\DoAN\DoAN\DoAN\bin\Newtonsoft.Json.dll
+C:\Users\NITRO\Desktop\file\Lập trình web\Backup\DoAN\DoAN\DoAN\bin\Owin.dll
+C:\Users\NITRO\Desktop\file\Lập trình web\Backup\DoAN\DoAN\DoAN\bin\System.Web.Helpers.dll
+C:\Users\NITRO\Desktop\file\Lập trình web\Backup\DoAN\DoAN\DoAN\bin\System.Web.Razor.dll
+C:\Users\NITRO\Desktop\file\Lập trình web\Backup\DoAN\DoAN\DoAN\bin\System.Web.Webpages.Deployment.dll
+C:\Users\NITRO\Desktop\file\Lập trình web\Backup\DoAN\DoAN\DoAN\bin\System.Web.Webpages.dll
+C:\Users\NITRO\Desktop\file\Lập trình web\Backup\DoAN\DoAN\DoAN\bin\System.Web.Webpages.Razor.dll
+C:\Users\NITRO\Desktop\file\Lập trình web\Backup\DoAN\DoAN\DoAN\bin\EntityFramework.xml
+C:\Users\NITRO\Desktop\file\Lập trình web\Backup\DoAN\DoAN\DoAN\bin\EntityFramework.SqlServer.xml
+C:\Users\NITRO\Desktop\file\Lập trình web\Backup\DoAN\DoAN\DoAN\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\NITRO\Desktop\file\Lập trình web\Backup\DoAN\DoAN\DoAN\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\NITRO\Desktop\file\Lập trình web\Backup\DoAN\DoAN\DoAN\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\NITRO\Desktop\file\Lập trình web\Backup\DoAN\DoAN\DoAN\bin\Microsoft.Owin.xml
+C:\Users\NITRO\Desktop\file\Lập trình web\Backup\DoAN\DoAN\DoAN\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\NITRO\Desktop\file\Lập trình web\Backup\DoAN\DoAN\DoAN\bin\Microsoft.Owin.Security.xml
+C:\Users\NITRO\Desktop\file\Lập trình web\Backup\DoAN\DoAN\DoAN\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\NITRO\Desktop\file\Lập trình web\Backup\DoAN\DoAN\DoAN\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\NITRO\Desktop\file\Lập trình web\Backup\DoAN\DoAN\DoAN\bin\Newtonsoft.Json.xml
+C:\Users\NITRO\Desktop\file\Lập trình web\Backup\DoAN\DoAN\DoAN\bin\System.Web.Razor.xml
+C:\Users\NITRO\Desktop\file\Lập trình web\Backup\DoAN\DoAN\DoAN\bin\System.Web.Webpages.xml
+C:\Users\NITRO\Desktop\file\Lập trình web\Backup\DoAN\DoAN\DoAN\bin\System.Web.Webpages.Deployment.xml
+C:\Users\NITRO\Desktop\file\Lập trình web\Backup\DoAN\DoAN\DoAN\bin\System.Web.Webpages.Razor.xml
+C:\Users\NITRO\Desktop\file\Lập trình web\Backup\DoAN\DoAN\DoAN\bin\System.Web.Helpers.xml
+C:\Users\NITRO\Desktop\file\Lập trình web\Backup\DoAN\DoAN\DoAN\obj\Debug\DoAN.csprojResolveAssemblyReference.cache
+C:\Users\NITRO\Desktop\file\Lập trình web\Backup\DoAN\DoAN\DoAN\obj\Debug\DoAN.IdentityMigration.init.resources
+C:\Users\NITRO\Desktop\file\Lập trình web\Backup\DoAN\DoAN\DoAN\obj\Debug\DoAN.IdentityMigration.up.resources
+C:\Users\NITRO\Desktop\file\Lập trình web\Backup\DoAN\DoAN\DoAN\obj\Debug\DoAN.Migrations.InitialCreate.resources
+C:\Users\NITRO\Desktop\file\Lập trình web\Backup\DoAN\DoAN\DoAN\obj\Debug\DoAN.Migrations.imgurl.resources
+C:\Users\NITRO\Desktop\file\Lập trình web\Backup\DoAN\DoAN\DoAN\obj\Debug\DoAN.Migrations.Validation.resources
+C:\Users\NITRO\Desktop\file\Lập trình web\Backup\DoAN\DoAN\DoAN\obj\Debug\DoAN.Migrations.addNewtable.resources
+C:\Users\NITRO\Desktop\file\Lập trình web\Backup\DoAN\DoAN\DoAN\obj\Debug\DoAN.Migrations.up.resources
+C:\Users\NITRO\Desktop\file\Lập trình web\Backup\DoAN\DoAN\DoAN\obj\Debug\DoAN.csproj.GenerateResource.Cache
+C:\Users\NITRO\Desktop\file\Lập trình web\Backup\DoAN\DoAN\DoAN\obj\Debug\DoAN.dll
+C:\Users\NITRO\Desktop\file\Lập trình web\Backup\DoAN\DoAN\DoAN\obj\Debug\DoAN.pdb
+E:\LapTrinh\Môn học kỳ 5\Lập trình web\2001204113_Doan_LTWeb\DoAN\DoAN\bin\DoAN.dll.config
+E:\LapTrinh\Môn học kỳ 5\Lập trình web\2001204113_Doan_LTWeb\DoAN\DoAN\bin\DoAN.dll
+E:\LapTrinh\Môn học kỳ 5\Lập trình web\2001204113_Doan_LTWeb\DoAN\DoAN\bin\DoAN.pdb
+E:\LapTrinh\Môn học kỳ 5\Lập trình web\2001204113_Doan_LTWeb\DoAN\DoAN\bin\EntityFramework.dll
+E:\LapTrinh\Môn học kỳ 5\Lập trình web\2001204113_Doan_LTWeb\DoAN\DoAN\bin\EntityFramework.SqlServer.dll
+E:\LapTrinh\Môn học kỳ 5\Lập trình web\2001204113_Doan_LTWeb\DoAN\DoAN\bin\Microsoft.AspNet.Identity.Core.dll
+E:\LapTrinh\Môn học kỳ 5\Lập trình web\2001204113_Doan_LTWeb\DoAN\DoAN\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\LapTrinh\Môn học kỳ 5\Lập trình web\2001204113_Doan_LTWeb\DoAN\DoAN\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\LapTrinh\Môn học kỳ 5\Lập trình web\2001204113_Doan_LTWeb\DoAN\DoAN\bin\Microsoft.Owin.dll
+E:\LapTrinh\Môn học kỳ 5\Lập trình web\2001204113_Doan_LTWeb\DoAN\DoAN\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\LapTrinh\Môn học kỳ 5\Lập trình web\2001204113_Doan_LTWeb\DoAN\DoAN\bin\Microsoft.Owin.Security.Cookies.dll
+E:\LapTrinh\Môn học kỳ 5\Lập trình web\2001204113_Doan_LTWeb\DoAN\DoAN\bin\Microsoft.Owin.Security.dll
+E:\LapTrinh\Môn học kỳ 5\Lập trình web\2001204113_Doan_LTWeb\DoAN\DoAN\bin\Microsoft.Owin.Security.OAuth.dll
+E:\LapTrinh\Môn học kỳ 5\Lập trình web\2001204113_Doan_LTWeb\DoAN\DoAN\bin\Newtonsoft.Json.dll
+E:\LapTrinh\Môn học kỳ 5\Lập trình web\2001204113_Doan_LTWeb\DoAN\DoAN\bin\Owin.dll
+E:\LapTrinh\Môn học kỳ 5\Lập trình web\2001204113_Doan_LTWeb\DoAN\DoAN\bin\System.Web.Helpers.dll
+E:\LapTrinh\Môn học kỳ 5\Lập trình web\2001204113_Doan_LTWeb\DoAN\DoAN\bin\System.Web.Mvc.dll
+E:\LapTrinh\Môn học kỳ 5\Lập trình web\2001204113_Doan_LTWeb\DoAN\DoAN\bin\System.Web.Razor.dll
+E:\LapTrinh\Môn học kỳ 5\Lập trình web\2001204113_Doan_LTWeb\DoAN\DoAN\bin\System.Web.Webpages.Deployment.dll
+E:\LapTrinh\Môn học kỳ 5\Lập trình web\2001204113_Doan_LTWeb\DoAN\DoAN\bin\System.Web.Webpages.dll
+E:\LapTrinh\Môn học kỳ 5\Lập trình web\2001204113_Doan_LTWeb\DoAN\DoAN\bin\System.Web.Webpages.Razor.dll
+E:\LapTrinh\Môn học kỳ 5\Lập trình web\2001204113_Doan_LTWeb\DoAN\DoAN\bin\EntityFramework.xml
+E:\LapTrinh\Môn học kỳ 5\Lập trình web\2001204113_Doan_LTWeb\DoAN\DoAN\bin\EntityFramework.SqlServer.xml
+E:\LapTrinh\Môn học kỳ 5\Lập trình web\2001204113_Doan_LTWeb\DoAN\DoAN\bin\Microsoft.AspNet.Identity.Core.xml
+E:\LapTrinh\Môn học kỳ 5\Lập trình web\2001204113_Doan_LTWeb\DoAN\DoAN\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\LapTrinh\Môn học kỳ 5\Lập trình web\2001204113_Doan_LTWeb\DoAN\DoAN\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\LapTrinh\Môn học kỳ 5\Lập trình web\2001204113_Doan_LTWeb\DoAN\DoAN\bin\Microsoft.Owin.xml
+E:\LapTrinh\Môn học kỳ 5\Lập trình web\2001204113_Doan_LTWeb\DoAN\DoAN\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\LapTrinh\Môn học kỳ 5\Lập trình web\2001204113_Doan_LTWeb\DoAN\DoAN\bin\Microsoft.Owin.Security.xml
+E:\LapTrinh\Môn học kỳ 5\Lập trình web\2001204113_Doan_LTWeb\DoAN\DoAN\bin\Microsoft.Owin.Security.Cookies.xml
+E:\LapTrinh\Môn học kỳ 5\Lập trình web\2001204113_Doan_LTWeb\DoAN\DoAN\bin\Microsoft.Owin.Security.OAuth.xml
+E:\LapTrinh\Môn học kỳ 5\Lập trình web\2001204113_Doan_LTWeb\DoAN\DoAN\bin\Newtonsoft.Json.xml
+E:\LapTrinh\Môn học kỳ 5\Lập trình web\2001204113_Doan_LTWeb\DoAN\DoAN\bin\System.Web.Razor.xml
+E:\LapTrinh\Môn học kỳ 5\Lập trình web\2001204113_Doan_LTWeb\DoAN\DoAN\bin\System.Web.Webpages.xml
+E:\LapTrinh\Môn học kỳ 5\Lập trình web\2001204113_Doan_LTWeb\DoAN\DoAN\bin\System.Web.Webpages.Deployment.xml
+E:\LapTrinh\Môn học kỳ 5\Lập trình web\2001204113_Doan_LTWeb\DoAN\DoAN\bin\System.Web.Webpages.Razor.xml
+E:\LapTrinh\Môn học kỳ 5\Lập trình web\2001204113_Doan_LTWeb\DoAN\DoAN\bin\System.Web.Helpers.xml
+E:\LapTrinh\Môn học kỳ 5\Lập trình web\2001204113_Doan_LTWeb\DoAN\DoAN\bin\System.Web.Mvc.xml
+E:\LapTrinh\Môn học kỳ 5\Lập trình web\2001204113_Doan_LTWeb\DoAN\DoAN\obj\Debug\DoAN.csprojResolveAssemblyReference.cache
+E:\LapTrinh\Môn học kỳ 5\Lập trình web\2001204113_Doan_LTWeb\DoAN\DoAN\obj\Debug\DoAN.IdentityMigration.init.resources
+E:\LapTrinh\Môn học kỳ 5\Lập trình web\2001204113_Doan_LTWeb\DoAN\DoAN\obj\Debug\DoAN.IdentityMigration.up.resources
+E:\LapTrinh\Môn học kỳ 5\Lập trình web\2001204113_Doan_LTWeb\DoAN\DoAN\obj\Debug\DoAN.Migrations.InitialCreate.resources
+E:\LapTrinh\Môn học kỳ 5\Lập trình web\2001204113_Doan_LTWeb\DoAN\DoAN\obj\Debug\DoAN.Migrations.imgurl.resources
+E:\LapTrinh\Môn học kỳ 5\Lập trình web\2001204113_Doan_LTWeb\DoAN\DoAN\obj\Debug\DoAN.Migrations.Validation.resources
+E:\LapTrinh\Môn học kỳ 5\Lập trình web\2001204113_Doan_LTWeb\DoAN\DoAN\obj\Debug\DoAN.Migrations.addNewtable.resources
+E:\LapTrinh\Môn học kỳ 5\Lập trình web\2001204113_Doan_LTWeb\DoAN\DoAN\obj\Debug\DoAN.Migrations.up.resources
+E:\LapTrinh\Môn học kỳ 5\Lập trình web\2001204113_Doan_LTWeb\DoAN\DoAN\obj\Debug\DoAN.csproj.GenerateResource.Cache
+E:\LapTrinh\Môn học kỳ 5\Lập trình web\2001204113_Doan_LTWeb\DoAN\DoAN\obj\Debug\DoAN.dll
+E:\LapTrinh\Môn học kỳ 5\Lập trình web\2001204113_Doan_LTWeb\DoAN\DoAN\obj\Debug\DoAN.pdb

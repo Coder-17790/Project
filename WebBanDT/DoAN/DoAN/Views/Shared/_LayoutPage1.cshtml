@@ -1,0 +1,185 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewBag.Title</title>
+    <link href="~/Content/bootstrap.css" rel="stylesheet" />
+    <script src="~/Scripts/jquery-3.6.1.js"></script>
+    <script src="~/Content/font-awesome.css" rel="stylesheet"></script>
+
+
+</head>
+<body style="background-image: url(../img/HinhNen.jpg)">
+    <div>
+        <nav class="navbar navbar-expand-lg navbar-dark bg-dark w-100">
+            <div class="container">
+                <!-- Brand -->
+                <a class="navbar-brand p-2" href="/Home/Index">
+                    Trang chủ
+                </a>
+                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"> Tuan </span>
+                </button>
+                <!-- Links -->
+                <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                    <ul class="navbar-nav ml-auto">
+                        <li class="nav-item active">
+                            <a class="nav-link" href="/SanPham/Index">Sản phẩm</a>
+                        </li>
+                        <li class="nav-item active">
+                            <a class="nav-link" href="/Sanpham/PhanLoai">Phân loai</a>
+                        </li>
+                        @if (User.Identity.IsAuthenticated)
+                        {
+                            <li class="nav-item active">
+                                <a class="nav-link" href="/Sanpham/GioHang">Giỏ hàng</a>
+                            </li>
+                        }
+                        else
+                        {
+                            <li class="nav-item active">
+                                <a class="nav-link disabled" href="/Sanpham/GioHang">Giỏ hàng</a>
+                            </li>
+                        }
+
+                    </ul>
+                    <form class="d-flex" role="search" >
+                        <input class="form-control mx-3 w-100 mx-5" type="search" id="search" name="search" placeholder="Search" aria-label="Search" value="@ViewBag.Search">
+                        <button class="btn btn-outline-info mx-5" type="submit">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="currentColor" class="bi bi-search" viewBox="0 0 16 16">
+                                <path d="M11.742 10.344a6.5 6.5 0 1 0-1.397 1.398h-.001c.03.04.062.078.098.115l3.85 3.85a1 1 0 0 0 1.415-1.414l-3.85-3.85a1.007 1.007 0 0 0-.115-.1zM12 6.5a5.5 5.5 0 1 1-11 0 5.5 5.5 0 0 1 11 0z" />
+                            </svg><i class="bi bi-search"></i>
+                        </button>
+                    </form> &emsp;
+                    @if (User.Identity.IsAuthenticated)
+                    {
+                        <a href="/Account/Logout" style="color:#FFF; font-weight:bold;" class="mx-2">
+                            Đăng xuất
+                        </a>
+                    }
+                    else
+                    {
+                        <a href="/Account/Register" style="color:#FFF; font-weight:bold;" class="mx-2">
+                            Đăng ký
+                        </a>
+                        <a href="/Account/Login" style="color:#FFF; font-weight:bold;" class="mx-2">
+                            Đăng nhập
+                        </a>
+                    }
+                    @if (User.Identity.IsAuthenticated)
+                    {
+                        <div style="color : red ; font-weight:bold">
+                            Chào @User.Identity.Name
+                        </div>
+                    }
+                </div>
+            </div>
+        </nav>
+        <div class="container">
+            @RenderBody()
+
+        </div>
+    </div>
+    <footer class="footer-section bg-info">
+        <div class="container">
+            <div class="footer-content pt-5 pb-5">
+                <div class="row">
+                    <div class="col-xl-4 col-lg-4 mb-50">
+                        <div class="footer-widget">
+                            <div class="footer-text">
+                                <p>
+                                    Kênh mua sắm trực tuyến giá tốt hàng đầu Việt Nam
+                                </p>
+                            </div>
+                            <div class="footer-social-icon">
+                                <span>Follow us</span>
+                                <a href="#">
+                                    <i class="fab fa-facebook-f facebook-bg"></i>
+                                    <svg xmlns="http://www.w3.org/2000/svg" width="35" height="35" fill="currentColor" class="bi bi-facebook" viewBox="0 0 16 16" style="color: #3B5998">
+                                        <path d="M16 8.049c0-4.446-3.582-8.05-8-8.05C3.58 0-.002 3.603-.002 8.05c0 4.017 2.926 7.347 6.75 7.951v-5.625h-2.03V8.05H6.75V6.275c0-2.017 1.195-3.131 3.022-3.131.876 0 1.791.157 1.791.157v1.98h-1.009c-.993 0-1.303.621-1.303 1.258v1.51h2.218l-.354 2.326H9.25V16c3.824-.604 6.75-3.934 6.75-7.951z" />
+                                    </svg>
+                                </a>
+                                <a href="#">
+                                    <i class="fab fa-twitter twitter-bg"></i>
+                                    <svg xmlns="http://www.w3.org/2000/svg" width="35" height="35" fill="currentColor" class="bi bi-twitter" viewBox="0 0 16 16" style="color: #55ACEE">
+                                        <path d="M5.026 15c6.038 0 9.341-5.003 9.341-9.334 0-.14 0-.282-.006-.422A6.685 6.685 0 0 0 16 3.542a6.658 6.658 0 0 1-1.889.518 3.301 3.301 0 0 0 1.447-1.817 6.533 6.533 0 0 1-2.087.793A3.286 3.286 0 0 0 7.875 6.03a9.325 9.325 0 0 1-6.767-3.429 3.289 3.289 0 0 0 1.018 4.382A3.323 3.323 0 0 1 .64 6.575v.045a3.288 3.288 0 0 0 2.632 3.218 3.203 3.203 0 0 1-.865.115 3.23 3.23 0 0 1-.614-.057 3.283 3.283 0 0 0 3.067 2.277A6.588 6.588 0 0 1 .78 13.58a6.32 6.32 0 0 1-.78-.045A9.344 9.344 0 0 0 5.026 15z" />
+                                    </svg>
+                                </a>
+                                <a href="#">
+                                    <i class="fab fa-google-plus-g google-bg"></i>
+                                    <svg xmlns="http://www.w3.org/2000/svg" width="35" height="35" fill="currentColor" class="bi bi-google" viewBox="0 0 16 16" style="color: #DD4B39">
+                                        <path d="M15.545 6.558a9.42 9.42 0 0 1 .139 1.626c0 2.434-.87 4.492-2.384 5.885h.002C11.978 15.292 10.158 16 8 16A8 8 0 1 1 8 0a7.689 7.689 0 0 1 5.352 2.082l-2.284 2.284A4.347 4.347 0 0 0 8 3.166c-2.087 0-3.86 1.408-4.492 3.304a4.792 4.792 0 0 0 0 3.063h.003c.635 1.893 2.405 3.301 4.492 3.301 1.078 0 2.004-.276 2.722-.764h-.003a3.702 3.702 0 0 0 1.599-2.431H8v-3.08h7.545z" />
+                                    </svg>
+                                </a>
+
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xl-4 col-lg-4 col-md-6 mb-30">
+                        <div class="footer-widget">
+                            <div class="footer-widget-heading">
+                                <h3>Thông Tin Công Ty</h3>
+                            </div>
+                            <ul>
+                                <li><a href="#">Trang chủ</a></li>
+                                <li><a href="#">Giới thiệu</a></li>
+                                <li><a href="#">Dịch vụ</a></li>
+                                <li><a href="#">Đầu tư</a></li>
+                                <li><a href="#">Liên hệ</a></li>
+                                <li><a href="#">Về chúng tôi</a></li>
+                                <li><a href="#">Ưu đãi</a></li>
+                                <li><a href="#">Chuyên gia</a></li>
+                                <li><a href="#">Đăng ký</a></li>
+                                <li><a href="#">Tin tức mới nhất</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="col-xl-4 col-lg-4 col-md-6 mb-50">
+                        <div class="footer-widget">
+                            <div class="footer-widget-heading">
+                                <h3>Subscribe</h3>
+                            </div>
+                            <div class="footer-text mb-25">
+                                <p>Đừng bỏ lỡ sản phẩm mới nhất của chúng tôi.</p>
+                            </div>
+                            <div class="subscribe-form">
+                                <form action="#">
+                                    <input type="text" placeholder="Email Address">
+                                    <button>
+                                        <i class="bi bi-cursor"></i>
+                                        <svg xmlns="http://www.w3.org/2000/svg" width="35" height="35" fill="currentColor" class="bi bi-cursor" viewBox="0 0 16 16">
+                                            <path d="M14.082 2.182a.5.5 0 0 1 .103.557L8.528 15.467a.5.5 0 0 1-.917-.007L5.57 10.694.803 8.652a.5.5 0 0 1-.006-.916l12.728-5.657a.5.5 0 0 1 .556.103zM2.25 8.184l3.897 1.67a.5.5 0 0 1 .262.263l1.67 3.897L12.743 3.52 2.25 8.184z" />
+                                        </svg>
+                                    </button>
+                                </form>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="copyright-area">
+            <div class="container">
+                <div class="row">
+                    <div class="col-xl-6 col-lg-6 text-center text-lg-left">
+                        <div class="copyright-text">
+                            <p>Copyright &copy; 2022, All Right Reserved <a href="https://codepen.io/anupkumar92/">CARATs</a></p>
+                        </div>
+                    </div>
+                    <div class="col-xl-6 col-lg-6 d-none d-lg-block text-right">
+                        <div class="footer-menu">
+                            <ul>
+                                <li><a href="#">Trang chủ</a></li>
+                                <li><a href="#">Dịch vụ</a></li>
+                                <li><a href="#">Bảo mật</a></li>
+                                <li><a href="#">Chính sách</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
+</body>
+</html>
